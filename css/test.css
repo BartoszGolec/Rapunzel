@@ -1,0 +1,25 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	font-size: 50px;
+	color: green;
+	font-family: lato;
+}
+h2{
+	font-size: 40px;
+	color: indigo;
+	font-family: lato;
+}
+.big{
+	font-size: 70px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: navy;
+}
+span{
+	color: blue;
+}
